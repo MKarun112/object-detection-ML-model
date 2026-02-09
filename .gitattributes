@@ -1,5 +1,0 @@
-*.pb filter=lfs diff=lfs merge=lfs -text
-*.ckpt filter=lfs diff=lfs merge=lfs -text
-*.tar.gz filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-ssd_mobilenet_v3_large_coco_2020_01_14.zip filter=lfs diff=lfs merge=lfs -text
